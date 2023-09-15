@@ -1,0 +1,3 @@
+git init - inicializando um repositório git
+git status - verificar o status do repositório 
+git add . - Adiciona todos no rastreio do git
